@@ -1,4 +1,4 @@
-<img src = "gif.gif" width = "325px" align = "right">
+
 # 💫 Hello World:<br>
 👨‍💻 Estudante de ADS<br>🌐Aprendendo sempre
 
