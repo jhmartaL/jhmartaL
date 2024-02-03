@@ -1,6 +1,6 @@
 
 # 💫 Hello World:<br>
-👨‍💻 Estudante de ADS<br>🌐Aprendendo sempre
+👨‍💻 Estudante de ADS<br>🌐 Sempre aprendendo...
 
 
 # 💻 Tech Stack:
